@@ -1,7 +1,0 @@
-The main function of this AncSid is to identify species of ancient animals based on
-next generation sequencing data. There are several key parameters that will influence
-the identification accuracy including the sequencing similarity, query coverage, and the
-screening scope of deamination induced mutations. We strongly recommended to use a
-similarity with ≥98% but <100% and query coverage >96% for running this script. The
-deamination based screening can be turned off, but this function will significantly
-improve the ability of species identification, especially for highly damaged DNAs.
